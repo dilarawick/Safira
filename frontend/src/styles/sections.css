@@ -1,0 +1,11 @@
+.section {
+  min-height: 100vh;
+  padding: 5rem 1.5rem;
+  background: #05000b;
+  color: #ffffff;
+  border-top: 1px solid #ffffff33;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
